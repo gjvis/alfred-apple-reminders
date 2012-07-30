@@ -16,7 +16,7 @@ If Reminders is open then it will be focussed, otherwise the extension operates 
 
 ##Build and installation
 
-The default Rake task (build) will build a `.alfredextension' file, that can then be opened in Alfred.
+The default Rake task (build) will build a `.alfredextension` file, that can then be opened in Alfred.
 
 [alfred]: http://alfredapp.com/
 
