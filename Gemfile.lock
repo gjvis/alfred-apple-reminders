@@ -2,11 +2,14 @@ GEM
   remote: https://rubygems.org/
   specs:
     plist (3.1.0)
-    rubyzip (0.9.9)
+    rubyzip (1.2.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   plist (~> 3.1)
-  rubyzip (~> 0.9)
+  rubyzip (~> 1.2, >= 1.2.1)
+
+BUNDLED WITH
+   1.13.6
