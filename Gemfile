@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'plist', '~> 3.1'
+gem 'plist', '~> 3.4'
 gem 'rubyzip', '~> 0.9'
